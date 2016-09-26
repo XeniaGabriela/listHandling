@@ -11,7 +11,7 @@
 ###################################### CUSTOM DEFINED PARAMETERS ##################################
 
 # path to the directory with the files to be checked
-filePath = "/path/to/folder/with/lists"
+filePath = "/home/nightowl/Documents/hashcat/wordlists/leakedPasswords"
 
 # the maximum number of lines in a cleaned file 
 # all these files will be compared to each other
